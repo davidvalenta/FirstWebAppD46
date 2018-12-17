@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <widget version="1.0.0">
-    <name>App-Name</name>
+    <name>Unihockey Stöcke</name>
     <description>
-        App-Beschreibung
+        Das ist meine erste Web App über Unihockey Stöcke
     </description>
     <author>
-        Dein Name
+        David Valenta
     </author>
 
     <!-- General settings -->
