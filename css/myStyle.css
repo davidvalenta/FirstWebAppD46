@@ -15,7 +15,7 @@ body{
 
 h1 {
     clear: left; /* clear=auf neue Zeile, left=linksbündig */
-	color: #900000;
+	color: #C30000;
 	font-size: 1.5em; /*1.5em = das 1.5-fache der normalen Grösse (Schriftgrösse des Elternelements, hier body)*/
     width: 100%;
     margin: 2% 0 2% 0; 
@@ -34,7 +34,7 @@ a {
     color: #138D75;
 }
 a:hover {
-	color: #ffffff;
+	color: #C30000;
 }
 
 img{
@@ -58,5 +58,5 @@ p{
     padding: 1%;
 }
 #navigation a {
-    color: #ABEBC6;
+    color: #C30000;
 }
