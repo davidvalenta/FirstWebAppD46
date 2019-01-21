@@ -8,7 +8,7 @@ body{
     width:95%;
     background-color: #FFD21F; /*background=Hintergrund, color=Farbe*/
     font-size: 20px; /*font=Schrift, size=Grösse*/
-    color: #138D75;
+    color: #000000;
     margin:0;
     padding:2.5% 2.5% 0 2.5%; /* 2.5% 2.5% 0 2.5% = oben=2.5% rechts=2.5% unten=0 links=2.5% */
 }
