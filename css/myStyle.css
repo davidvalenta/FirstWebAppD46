@@ -59,4 +59,38 @@ p{
 }
 #navigation a {
     color: #C30000;
+}#box1 {
+	clear:left;
+	float: left;
+	background-color:  #D7C400;
+	margin: 2% 0;
+	width: 95%
+	
 }
+#box2 {
+	clear: left;
+	float: left;
+	background-color: #D7C400;
+    margin: 2% 2% 2% 2%;
+    padding: 3% 3% 3% 3%;
+    width: 95%;	
+
+}
+#box3 {
+    clear: left;
+    float: left;
+    background-color: #D7C400;
+    margin: 2% 2% 2% 2%
+    padding: 3% 3% 3% 3%;
+    width: 95%
+
+}
+#box4 {
+    clear: left;
+    float: left;
+    background-color: #D7C400;
+    margin: 4% 4% 4% 4%;
+    padding: 1% 1% 1% 1%;
+    width: 90%;
+
+}	
