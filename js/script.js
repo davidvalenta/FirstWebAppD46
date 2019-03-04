@@ -9,7 +9,7 @@ function loadChangeContent() {
     document.getElementById('button').addEventListener("click", changeContent);
 }
 function changeContent(){
-    document.getElementById('textBox').innerHTML = "ASGSGFA";
+    document.getElementById('textBox').innerHTML = "https://www.unihockeyshop.ch/de/stocklaenge";
 }
 
 //B2 CSS ändern 1
